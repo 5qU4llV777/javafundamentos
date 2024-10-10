@@ -15,10 +15,10 @@ public class TiposVariaveis {
 
         numero = 2;
 
-        //valor nunca podera mudar , para declarar constante usar final nome da variavel tem que ser todo na caixa alta
+        //valor nunca podera mudar , para declarar constante usar final nome da variavel tem que ser  na caixa alta
         final double VALOR_DE_PI = 3.14;
         //não pode ser alterado
-        VALOR_DE_PI = 5.90;
+        //VALOR_DE_PI = 5.90;
 
     }
 }
