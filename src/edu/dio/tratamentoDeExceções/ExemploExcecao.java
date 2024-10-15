@@ -2,7 +2,7 @@ package edu.dio.tratamentoDeExceções;
 
 import java.text.ParseException;
 
-public class ExemploExcecao {
+/*public class ExemploExcecao {
 
     public static void main(String[] args) {
         Number valor = Double.valueOf("a1.75");
@@ -15,4 +15,4 @@ public class ExemploExcecao {
         }
 
     }
-}
+}*/

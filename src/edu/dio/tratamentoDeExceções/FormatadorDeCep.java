@@ -3,7 +3,7 @@ package edu.dio.tratamentoDeExceções;
 public class FormatadorDeCep {
     public static void main(String[] args) {
         try {
-            String cepFormatado = formatarCep("23765064");
+            String cepFormatado = formatarCep("23765069");
             System.out.println(cepFormatado);
         } catch (CepInvalidoException e) {
             System.out.println("O cep não corresponde com as regras de negocio");
