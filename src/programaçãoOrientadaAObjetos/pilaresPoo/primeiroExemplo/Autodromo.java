@@ -1,4 +1,4 @@
-package programaçãoOrientadaAObjetos.pilaresPoo;
+package programaçãoOrientadaAObjetos.pilaresPoo.primeiroExemplo;
 
 public class Autodromo {
 

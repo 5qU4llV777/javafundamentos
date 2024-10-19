@@ -1,4 +1,4 @@
-package programaçãoOrientadaAObjetos.pilaresPoo;
+package programaçãoOrientadaAObjetos.pilaresPoo.primeiroExemplo;
 // a classe tambem recebe a palavra abstract para se tornar abstrata
 public  abstract class Veiculo {
 
